@@ -41,6 +41,8 @@
   align-items: center;
   height: 478px;
   background-image: url(https://img.alicdn.com/tfs/TB14TEEm7CWBuNjy0FaXXXUlXXa-1440-478.png);
+  background-repeat:round;
+
 }
 .banner-box{
   width: 1000px;
